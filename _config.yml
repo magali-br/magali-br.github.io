@@ -1,4 +1,3 @@
-theme: jekyll-theme-architect
+remote_theme: andrewbanchich/editorial-jekyll-theme
 
-title: The Lyrical Nibble
-description: Baking, Languages, Platypi, and Other Creations
+subtitle: TheLyricalNibble Baking, Languages, Platypi, and Other Creations
