@@ -1,0 +1,35 @@
+---
+---
+
+@import "minima";
+/*@import url('https://fonts.googleapis.com/css?family=Google+Sans');*/
+/*@import url('https://fonts.googleapis.com/css?family=Tangerine');*/
+/*@import url('https://fonts.googleapis.com/css?family=Antic+Slab');*/
+
+
+/* v 3.0 @import "minima/skins/{{ site.minima.skin | default: 'classic' }}";
+@import "minima/initialize"; */
+
+
+body {
+  /*background-color: #9cc5f4;*/
+  /*margin: 0px;*/
+  /* worked when import directly in css, not in head */
+    /*font-family: "Antic Slab", sans serif; */
+  /* font-family: "Google Sans", sans serif; */
+  /*font-family: monospace; */
+    /*font-family: 'Tangerine', serif; */
+  /* did not work because trademarked :(( */
+    /* font-family: "Bookman Old Style"; */ 
+
+} 
+
+ /*$base-font-family: monospace; */
+
+/* $base-font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Segoe UI Symbol", "Segoe UI Emoji", "Apple Color Emoji", Roboto, Helvetica, Arial, sans-serif !default;
+// $code-font-family: "Menlo", "Inconsolata", "Consolas", "Roboto Mono", "Ubuntu Mono", "Liberation Mono", "Courier New", monospace;
+// $base-font-size:   16px !default;
+// $base-font-weight: 400 !default;
+// $small-font-size:  $base-font-size * 0.875 !default;
+// $base-line-height: 2.5 !default; // 1.5 !default; */
+
