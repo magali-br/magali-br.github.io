@@ -28,7 +28,7 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  magali-br
 
 header_pages:
-  - about.md
+  - aboutthis.md
   - funness.md
 
 
